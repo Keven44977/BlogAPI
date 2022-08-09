@@ -1,0 +1,82 @@
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\appsettings.json
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.exe
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.deps.json
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.runtimeconfig.json
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.pdb
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.csproj.AssemblyReference.cache
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.AssemblyInfoInputs.cache
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.AssemblyInfo.cs
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.csproj.CoreCompileInputs.cache
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\scopedcss\bundle\BlogAPI.styles.css
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.csproj.CopyComplete
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.dll
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\refint\BlogAPI.dll
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.pdb
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.genruntimeconfig.cache
+C:\Git\Perso\BlogAPI\BlogAPI\obj\Debug\net6.0\ref\BlogAPI.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Core.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Database.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Database.pdb
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Core.pdb
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Repositories.dll
+C:\Git\Perso\BlogAPI\BlogAPI\bin\Debug\net6.0\Repositories.pdb
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\appsettings.json
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.exe
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.deps.json
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.runtimeconfig.json
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\BlogAPI.pdb
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Npgsql.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Core.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Database.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Repositories.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Database.pdb
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Repositories.pdb
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\bin\Debug\net6.0\Core.pdb
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.csproj.AssemblyReference.cache
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.AssemblyInfoInputs.cache
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.AssemblyInfo.cs
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.csproj.CoreCompileInputs.cache
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\scopedcss\bundle\BlogAPI.styles.css
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.csproj.CopyComplete
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\refint\BlogAPI.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.pdb
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.genruntimeconfig.cache
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\ref\BlogAPI.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BlogAPI\obj\Debug\net6.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cs

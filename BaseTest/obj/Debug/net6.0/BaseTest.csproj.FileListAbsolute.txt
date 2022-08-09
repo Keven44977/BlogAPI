@@ -1,0 +1,12 @@
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\bin\Debug\net6.0\BaseTest.deps.json
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\bin\Debug\net6.0\BaseTest.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\bin\Debug\net6.0\BaseTest.pdb
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\obj\Debug\net6.0\BaseTest.csproj.AssemblyReference.cache
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\obj\Debug\net6.0\BaseTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\obj\Debug\net6.0\BaseTest.AssemblyInfoInputs.cache
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\obj\Debug\net6.0\BaseTest.AssemblyInfo.cs
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\obj\Debug\net6.0\BaseTest.csproj.CoreCompileInputs.cache
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\obj\Debug\net6.0\BaseTest.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\obj\Debug\net6.0\refint\BaseTest.dll
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\obj\Debug\net6.0\BaseTest.pdb
+C:\Git\Perso\Nwaretech Blog\BlogAPI\BaseTest\obj\Debug\net6.0\ref\BaseTest.dll
