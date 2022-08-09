@@ -51,7 +51,10 @@ namespace BlogAPI.Controllers
         [HttpPost]
         public IActionResult Create([FromBody] PostModel post)
         {
-            if (post == null || post.Title == null || post.Content == null || post.PublicationDate == null)
+            if (post == null || 
+                string.IsNullOrEmpty(post.Title) || string.IsNullOrWhiteSpace(post.Title) ||
+                 string.IsNullOrEmpty(post.Content) || string.IsNullOrWhiteSpace(post.Content) ||
+                post.PublicationDate == null)
             {
                 return BadRequest();
             }
@@ -60,7 +63,7 @@ namespace BlogAPI.Controllers
 
             if (postExists)
             {
-                return BadRequest();
+                return Conflict();
             }
 
             Post newPost = new Post()
@@ -79,7 +82,10 @@ namespace BlogAPI.Controllers
         [HttpPut]
         public IActionResult Update([FromBody] PostModel post)
         {
-            if (post == null || post.Title == null || post.Content == null || post.PublicationDate == null)
+            if (post == null || 
+                string.IsNullOrEmpty(post.Title) || string.IsNullOrWhiteSpace(post.Title) || 
+                string.IsNullOrEmpty(post.Content) || string.IsNullOrWhiteSpace(post.Content) || 
+                post.PublicationDate == null)
             {
                 return BadRequest();
             }
@@ -97,7 +103,7 @@ namespace BlogAPI.Controllers
 
             if (postExists)
             {
-                return BadRequest();
+                return Conflict();
             }
 
             postToUpdate.Title = post.Title;

@@ -69,7 +69,7 @@ namespace BlogAPI.Controllers
         [HttpPost]
         public IActionResult Create(string title)
         {
-            if (title == null)
+            if (string.IsNullOrEmpty(title) || string.IsNullOrWhiteSpace(title))
             {
                 return BadRequest();
             }
@@ -78,7 +78,7 @@ namespace BlogAPI.Controllers
 
             if (categoryExists)
             {
-                return BadRequest();
+                return Conflict();
             }
 
             Category newCategory = new Category()
@@ -94,7 +94,7 @@ namespace BlogAPI.Controllers
         [HttpPut]
         public IActionResult Update([FromBody] DtoCategory dtoCategory)
         {
-            if (dtoCategory == null)
+            if (dtoCategory == null || string.IsNullOrEmpty(dtoCategory.Title) || string.IsNullOrWhiteSpace(dtoCategory.Title))
             {
                 return BadRequest();
             }
@@ -112,7 +112,7 @@ namespace BlogAPI.Controllers
 
             if (categoryExists)
             {
-                return BadRequest();
+                return Conflict();
             }
 
             categoryToUpdate.Title = dtoCategory.Title;

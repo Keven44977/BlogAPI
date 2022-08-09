@@ -28,13 +28,6 @@ builder.Services.AddScoped<IPostsService, PostsService>();
 
 var app = builder.Build();
 
-using (var scope = app.Services.CreateScope())
-{
-    var dbContext = scope.ServiceProvider.GetRequiredService<BlogContext>();
-
-    dbContext.Database.Migrate();
-}
-
 AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
 
 // Configure the HTTP request pipeline.

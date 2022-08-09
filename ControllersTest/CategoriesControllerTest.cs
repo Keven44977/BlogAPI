@@ -172,7 +172,7 @@ namespace ControllersTest
         }
 
         [TestMethod]
-        public void Create_WhenExists_ReturnBadRequest()
+        public void Create_WhenExists_ReturnConflictResult()
         {
             //arrange
             GetMock<ICategoriesService>()
@@ -183,7 +183,7 @@ namespace ControllersTest
             var result = InstanceTest.Create("mockTitle");
 
             //assert
-            result.Should().BeOfType(typeof(BadRequestResult));
+            result.Should().BeOfType(typeof(ConflictResult));
 
             GetMock<ICategoriesService>()
                 .Verify(v => v.GetByTitle(It.IsAny<string>()), Times.Once);
@@ -248,7 +248,7 @@ namespace ControllersTest
         }
 
         [TestMethod]
-        public void Update_WhenSameTitleExistsNotSamePost_ReturnBadResuqest()
+        public void Update_WhenSameTitleExistsNotSamePost_ReturnConflictResult()
         {
             //arrange
             GetMock<ICategoriesService>()
@@ -263,7 +263,7 @@ namespace ControllersTest
             var result = InstanceTest.Update(AutoFixture.Build<DtoCategory>().With(s => s.Id, 1).Create());
 
             //assert
-            result.Should().BeOfType(typeof(BadRequestResult));
+            result.Should().BeOfType(typeof(ConflictResult));
 
             GetMock<ICategoriesService>()
                 .Verify(v => v.GetById(It.IsAny<int>()), Times.Once);

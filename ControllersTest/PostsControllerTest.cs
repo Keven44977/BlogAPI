@@ -157,7 +157,7 @@ namespace ControllersTest
         }
 
         [TestMethod]
-        public void Create_WhenPostExists_ReturnBadRequest()
+        public void Create_WhenPostExists_ReturnConflictResult()
         {
             //arrange
             GetMock<IPostsService>()
@@ -168,7 +168,7 @@ namespace ControllersTest
             var result = InstanceTest.Create(AutoFixture.Create<PostModel>());
 
             //assert
-            result.Should().BeOfType(typeof(BadRequestResult));
+            result.Should().BeOfType(typeof(ConflictResult));
 
             GetMock<IPostsService>()
                 .Verify(v => v.GetByTitle(It.IsAny<string>()), Times.Once);
@@ -270,7 +270,7 @@ namespace ControllersTest
                 .Verify(v => v.GetByTitle(It.IsAny<string>()), Times.Never);
         }
         [TestMethod]
-        public void Update_WhenPostTitleExists_ReturnBadRequest()
+        public void Update_WhenPostTitleExists_ReturnConflictResult()
         {
             //arrange
             GetMock<IPostsService>()
@@ -285,7 +285,7 @@ namespace ControllersTest
             var result = InstanceTest.Update(AutoFixture.Create<PostModel>());
 
             //assert
-            result.Should().BeOfType(typeof(BadRequestResult));
+            result.Should().BeOfType(typeof(ConflictResult));
 
             GetMock<IPostsService>()
                 .Verify(v => v.GetById(It.IsAny<int>()), Times.Once);
@@ -358,7 +358,7 @@ namespace ControllersTest
             var result = InstanceTest.Delete(1);
 
             //assert
-            result.Should().BeOfType(typeof(NotFoundResult));
+            result.Should().BeOfType(typeof(OkResult));
 
             GetMock<IPostsService>()
                 .Verify(v => v.GetById(It.IsAny<int>()), Times.Once);
